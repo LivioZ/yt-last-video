@@ -16,7 +16,7 @@ Create a file named `key.json` in the format:
 }
 ```
 
-The string is the API key created in the [Google developers dashboard](https://console.cloud.google.com/) with the Youtube Data API.
+The string is the API key created in the [Google developers dashboard](https://console.developers.google.com/) with the Youtube Data API.
 
 Follow this guide to generate API key: https://developers.google.com/youtube/v3/getting-started.
 
